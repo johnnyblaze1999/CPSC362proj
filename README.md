@@ -1,2 +1,2 @@
-# CPSC362proj
-Project for CPSC362
+# README
+This is the project for designing a simple website implementing HTML and CSS.
